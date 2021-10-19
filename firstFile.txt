@@ -1,5 +1,5 @@
-line01
-line02
+line01 changed from git_1 step7
+line02 changed from git_1 step7
 line03
 line04
 line05
