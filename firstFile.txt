@@ -5,6 +5,6 @@ line04
 line05 changed from git_1 step8
 line06 changed from git_1 step8
 line07
-line08
-line09
+line08 changed from git_1 step18
+line09 changed from git_1 step18
 line10
